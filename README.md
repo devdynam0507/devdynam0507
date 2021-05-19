@@ -4,7 +4,7 @@
 # Feeling
 ```Json
 {
-  "feel": 😃
+  "feel": 😃.
   "status": 200
 }
 ```
