@@ -1,5 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Backend%20DaeyoungNam&fontSize=50)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdynam0507&show_icons=true)  
-# About
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dynam0507)](https://solved.ac/dynam0507)    
-<a href="https://velog.io/@devdynam0507"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<div align=center>
+  <h1>Hello World! 🌈</h1>
+  안녕하세요 백엔드 개발자 남대영입니다. 🧐<br>
+  소프트웨어 아키텍처, Infra에 관심이 있고 <br>
+  항상 좋은 구조/코드를 연구하고있습니다.
+</div>
+<div align=center>
+  <h1> About </h1>
+</div>
+<div align=center>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2devdynam0507%2Fhit-counter"/></a>
+  <a align=center href="https://velog.io/@devdynam0507"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dynam0507"/>
+</div>
