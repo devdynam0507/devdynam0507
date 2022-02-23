@@ -12,3 +12,9 @@
   <a align=center href="https://velog.io/@devdynam0507"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dynam0507"/>
 </div>
+<div align=center>
+  <h1> Careers </h1>
+</div>
+<div align=center>
+  <li> <b>CODE STORY Metaverse Platform Software Engineer / Devops (2021/11 ~)</b></li>
+</div>
