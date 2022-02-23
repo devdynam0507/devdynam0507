@@ -16,6 +16,6 @@
   <h1> Careers </h1>
 </div>
 <div align=center>
-  <li> <b>Junction X Seoul 2021 MicroSoft Track 3rd </b> </li>
-  <li> <b>CODE STORY Metaverse Platform Software Engineer / Devops (2021/11 ~)</b></li>
+  <li> <b>Junction X Seoul 2021 Microsoft Track 3rd | Backend Engineer</b> </li>
+  <li> <b>CODE STORY Metaverse Platform | Software Engineer / Devops (2021/11 ~)</b></li>
 </div>
