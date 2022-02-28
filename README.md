@@ -16,6 +16,6 @@
   <h1> Careers </h1>
 </div>
 <div align=center>
-  <li> <b>Junction X Seoul Hackathon 2021 Microsoft Track 3rd | Backend Engineer (2021/05)</b> </li>
+  <li> <b>Junction X Seoul Hackathon 2021 Microsoft Track 3rd | Software Engineer (2021/05)</b> </li>
   <li> <b>CODE STORY Metaverse Platform Startup | Jr. Software Engineer / Devops (2021/11 ~)</b></li>
 </div>
