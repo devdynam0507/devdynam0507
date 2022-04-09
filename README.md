@@ -12,11 +12,6 @@
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dynam0507"/>
 </div>
 <div align=center>
-  <h1> Careers </h1>
-</div>
-<div align=center>
-  <li> <b>Junction X Seoul Hackathon 2021 Microsoft Track 3rd | Software Engineer (2021/05)</b> </li>
-  <li> <b>CODE STORY Metaverse Platform Startup | Jr. Software Engineer / Devops (2021/11 ~)</b></li>
   <hr>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2devdynam0507%2Fhit-counter"/></a>
 </div>
