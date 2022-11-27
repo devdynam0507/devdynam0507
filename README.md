@@ -1,9 +1,50 @@
-<div align=center>
-  <h1>Hello World! 🌈</h1>
-  안녕하세요 백엔드 개발자 남대영입니다. 🧐<br>
-  소프트웨어 아키텍처, Infra에 관심이 있고 <br>
-  항상 좋은 구조/코드를 연구하고있습니다.
-</div>
+# Hi there 🤚
+```yaml
+name: Daeyoung nam
+age: 23
+job: Software Engineer
+education: Solo
+company: null
+past_experiences:
+  - Minecraft plugin outsourcing 2016 ~ 2017
+  - NYPC Special awards 2017
+  - Junction X Seoul Hackathon 2021 Microsoft track 3rd
+  - Backend Engineer in CodeStory (Prototype Development) 2021.11 ~ 2022.8
+  - Development of business framework in Hankook Research (Freelancer)
+other_experiences:
+  - Republic of Korea Army GOP 2019 ~ 2021
+currently_working_on:
+  - Blog Booster fullstack
+  - Stock:vue fullstack
+backends:
+  - Java 11, Kotlin, Spring boot
+  - typescript, nestjs
+frontends:
+  - javascript, typescript, svelte
+etc:
+  - Docker, AWS, Vultr, python, prometheus, grafana
+  - Hibernate JPA, MySQL
+hello_world_level:
+  - Apache kafka, gRPC, go, c++, Postgres, mongodb
+hobbies:
+  - side projects
+  - opensource
+  - car driving  
+interesting:
+  - Startups
+  - Software Architecture
+  - Asynchronous Backend Framework (armeria)
+  - Crawling
+  - Cadillac
+```
+# My life is...
+```kotlin
+while(!isDead) {
+  val plan = planning();
+  val result execution(plan);
+  verification(result);
+}
+```
 <div align=center>
   <h1> About </h1>
 </div>
