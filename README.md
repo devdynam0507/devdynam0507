@@ -41,7 +41,7 @@ interesting:
 ```kotlin
 while(!isDead) {
   val plan = planning();
-  val result execution(plan);
+  val result = execution(plan);
   verification(result);
 }
 ```
