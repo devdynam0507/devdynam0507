@@ -4,7 +4,7 @@ name: Daeyoung nam
 age: 23
 job: Software Engineer
 education: Solo
-company: null
+company: Co-founder at GrowBooster, Co-founder at bitflow 
 past_experiences:
   - Minecraft plugin outsourcing 2016 ~ 2017
   - NYPC Special awards 2017
