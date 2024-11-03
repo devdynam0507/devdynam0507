@@ -43,8 +43,6 @@ while(!isDead) {
   verification(result);
 }
 ```
-[![committers.top badge](https://user-badge.committers.top/south_korea_private/USERNAME.svg)](https://user-badge.committers.top/south_korea_private/devdynam0507)
-
 <div align=center>
   <h1> About </h1>
 </div>
